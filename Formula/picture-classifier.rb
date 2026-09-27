@@ -1,8 +1,8 @@
 class PictureClassifier < Formula
   desc "Score photos for blur/exposure/face-clustering and cull via local web viewer"
   homepage "https://github.com/son-engr-kr/picture-classifier"
-  url "https://github.com/son-engr-kr/picture-classifier/archive/refs/tags/v0.7.0.tar.gz"
-  sha256 "dc57833a01593cc53ecd4683bf4e8fdc1527eab8542fa0c9e84518750f15d785"
+  url "https://github.com/son-engr-kr/picture-classifier/archive/refs/tags/v0.7.1.tar.gz"
+  sha256 "336a3363d4d5f3d6ebbe76b126c4024b7e3f7563ec3d057c7410aa0629a51cf4"
   license "MIT"
 
   depends_on "python@3.12"
