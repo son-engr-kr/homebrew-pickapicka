@@ -1,8 +1,8 @@
 class Pickapicka < Formula
   desc "Cull and edit a photo shoot locally, with a non-destructive RAW editor"
   homepage "https://github.com/son-engr-kr/pickapicka"
-  url "https://github.com/son-engr-kr/pickapicka/archive/refs/tags/v0.9.0.tar.gz"
-  sha256 "3dcae778e79225f8815aa6ef0f0abb2e96278359e633468c0deec4403663bb9b"
+  url "https://github.com/son-engr-kr/pickapicka/archive/refs/tags/v0.10.0.tar.gz"
+  sha256 "3ca36e79d51a6481cc25f33b18d2c4fa544a47cfb27f45bfd36350c559d4bd9c"
   license "MIT"
 
   depends_on "python@3.12"
